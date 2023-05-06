@@ -1,8 +1,7 @@
+#include <cs50.h>
 #include <stdio.h>
-#include <cs50.c>
 
 int main(void)
-<<<<<<< HEAD
 {	
 	// Prompt user for integer number
 	int height; 
