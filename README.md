@@ -4,7 +4,7 @@
 
 Toward the end of World 1-1 in Nintendo’s Super Mario Brothers, Mario must ascend right-aligned pyramid of blocks, a la the below.
 
-![mario](./picture/mario.png)
+![mario](./img/mario.png)
 
 Let’s recreate that pyramid in C, albeit in text, using hashes (#) for bricks, a la the below. Each hash is a bit taller than it is wide, so the pyramid itself will also be taller than it is wide.
 
